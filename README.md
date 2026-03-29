@@ -1,0 +1,1 @@
+This project demonstrates the use of a Zener diode in reverse bias as a voltage regulator. It maintains a stable output voltage despite variations in input voltage or load, showing its application in protecting electronic circuits and providing reliable power supply.
